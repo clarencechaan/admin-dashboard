@@ -188,12 +188,12 @@ body {
 .card-icons {
     display: flex;
     justify-content: right;
-    cursor: pointer;
 }
 
 .card-icons img {
     height: 20px;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .announcements-trending {
